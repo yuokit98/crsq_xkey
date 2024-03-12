@@ -1,0 +1,20 @@
+{
+  "name": "crsq_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuokit98/crsq_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qdgd_xid": "^1.0.0",
+    "kbui_xid": "^1.0.0"
+  }
+}
